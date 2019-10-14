@@ -1,0 +1,7 @@
+C:\Users\Predein\source\repos\DomDZ\DomDZ\bin\Debug\DomDZ.exe.config
+C:\Users\Predein\source\repos\DomDZ\DomDZ\bin\Debug\DomDZ.exe
+C:\Users\Predein\source\repos\DomDZ\DomDZ\bin\Debug\DomDZ.pdb
+C:\Users\Predein\source\repos\DomDZ\DomDZ\obj\Debug\DomDZ.csprojAssemblyReference.cache
+C:\Users\Predein\source\repos\DomDZ\DomDZ\obj\Debug\DomDZ.csproj.CoreCompileInputs.cache
+C:\Users\Predein\source\repos\DomDZ\DomDZ\obj\Debug\DomDZ.exe
+C:\Users\Predein\source\repos\DomDZ\DomDZ\obj\Debug\DomDZ.pdb
